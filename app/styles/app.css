@@ -1,0 +1,19 @@
+body,html {
+  padding: 0px;
+  margin: 0px;
+  background: #FFF;
+  font-family: "Times New Roman", Georgia, Serif;
+}
+a, a:visited, a:active {
+  color:#444;
+}
+ul li {
+  padding: 0px;
+  margin: 0px;
+}
+.welcome-holder,.mybooks {
+  text-align: center;
+}
+.mybooks {
+  margin-top: 50px;
+}
